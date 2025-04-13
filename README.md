@@ -1,4 +1,4 @@
-# Okienka
+# GeoQuiz
 
 ### Prosty program pokazujący możliwości aplikacji konsolowych systemu Windows.
 
