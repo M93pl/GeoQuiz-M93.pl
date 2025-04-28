@@ -1,14 +1,14 @@
 # GeoQuiz
-
+## Python / Tkinter
 ### Prosty program pokazujący możliwości aplikacji konsolowych systemu Windows.
 Główny plik (main) programu to 'sejw.py'.
 
-ver. 2.2
+<br>ver. 2.2
+
 
 <br><br>
-# https://www.m93.pl
-
 ----------------------
+### https://www.m93.pl
 contact:<br>
 info@m93.pl<br>
 contact@m93.pl<br><br>
