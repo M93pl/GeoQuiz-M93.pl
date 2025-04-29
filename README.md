@@ -3,8 +3,12 @@
 ### Prosty program pokazujący możliwości aplikacji konsolowych systemu Windows.
 Główny plik (main) programu to 'sejw.py'.
 
-<br>ver. 2.2
+<br>ver. 2.2<br>
 
+Skompilowany program można pobrać z:<br>
+https://m93.pl/Upload/Files/InstallGeoQuiz.exe<br>
+lub z mojego repozytorium publicznego:<br>
+https://github.com/M93pl/----_P_U_B_L_I_C_----<br>
 
 <br><br>
 ----------------------
